@@ -1,19 +1,20 @@
-# Quixotic Wallpapers
+<h1 align=center>Quixotic Wallpapers </h1>
 
-# Blue Circuit
+## Dark NeonCircuit
+---
+![Blue](./neoncircuit/bluecircuit.png)
 
-![Dark](./neoncircuit/bluecircuit.png)
+![Green](./neoncircuit/greencircuit.png)
 
-![Light](./neoncircuit/bluecircuit_light.png)
+![Red](./neoncircuit/red.png)
 
-# Green Circuit
+---
+## Light  NeonCircuit
+---
+![Blue](./neoncircuit/bluecircuit_light.png)
 
-![Dark](./neoncircuit/greencircuit.png)
+![Green](./neoncircuit/greencircuit_light.png)
 
-![Light](./neoncircuit/greencircuit_light.png)
+![Red](./neoncircuit/redcircuit_light.png)
 
-# Red Circuit
-
-![Dark](./neoncircuit/red.png)
-
-![Light](./neoncircuit/redcircuit_light.png)
+---
